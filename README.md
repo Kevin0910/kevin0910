@@ -8,20 +8,20 @@
 </div>
 
 ---
-### Acerca de mí:
-- Aun soy estudiante de universidad en la carrera de ingenieria en sistemas computacionales.
+### Acerca de mí 🧑🏽‍💻:
+- Aun soy estudiante de universidad en la carrera de ingenieria en sistemas computacionales. 
 
-- En mi tiempo libre estudio mas sobre el desarollo web.
+- Mi nombre completo es Kevin Gonzalo Cruz Martinez. 👔
 
-- Apenas llevo medio año en el mundo del desarrolló web.
+- Apenas llevo medio año en el mundo del desarrolló web.⏳
 
-- Puedo trabajar colaborativa mente.
+- Puedo trabajar colaborativa mente. 🤝🏾
 
-- Uso angular como framework del lado del cliente.
+- Uso angular como framework del lado del cliente. 
 
 - Uso java con springboot del lado del back end.
 
-- Lenguaje favorito? "TypeScript"
+- Lenguaje favorito? "TypeScript" ❤️
 
 
 <div id="Lista_de_lenguajes" aling="left">

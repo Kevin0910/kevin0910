@@ -41,6 +41,7 @@
         <br>
         <h3>Controlador de versiones</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUB" alt="GITHUB" width="80" height="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" title="GITHUB" alt="GITHUB" width="80" height="80">
         <br>
         <h3>Entorno de trabajo</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="80" height="80">

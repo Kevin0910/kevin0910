@@ -1,10 +1,6 @@
 <div id="header" aling="center">
     <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" width="200"/>
     <h1>Bienvenido a mi cuenta 👋 </h1>
-    <h3>Hola que tal, me llamo kevin gonzalo si tienes algun proyecto en mente o quieres hacerme preguntas con gusto puedes contactarme,
-        actualmente soy estudiante de universidad con 3 años ya de trayectoria como futuro ingeniero en sistemas, pero en mi tiempo libre me pongo a estudiar mas en el entorno de las tecnologias de frontend y backend
-        para seguir aprendiendo nuevas tecnicas o reforzar mas el conocimiento que tengo y seguir entrando mas en el desarollo web (full stack).
-    </h3>
 </div>
 
 ---

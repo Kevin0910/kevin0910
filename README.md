@@ -32,6 +32,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="ANGULAR" alt="ANGULAR" width="80" height="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUB" alt="GITHUB" width="80" height="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="80" height="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="vsc" alt="vsc" width="80" height="80">
     </div>
 </div>
 

@@ -5,7 +5,7 @@
 
 ---
 ### Acerca de mí 🧑🏽‍💻:
-- Aun soy estudiante de universidad en la carrera de ingenieria en sistemas computacionales. 
+- Soy estudiante de universidad en la carrera de ingenieria en sistemas computacionales. 
 
 - Mi nombre completo es Kevin Gonzalo Cruz Martinez. 👔
 

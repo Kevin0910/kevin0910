@@ -9,7 +9,7 @@
 
 - Mi nombre completo es Kevin Gonzalo Cruz Martinez. 👔
 
-- Apenas llevo medio año en el mundo del desarrolló web.⏳
+- Llevo dos en el mundo del desarrolló web.⏳
 
 - Puedo trabajar colaborativa mente. 🤝🏾
 

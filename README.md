@@ -78,16 +78,3 @@ Comfortable working in collaborative environments, adapting quickly to multidisc
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" width="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="60"/>
 
----
-
-### 📊 GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevin0910&theme=radical&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin0910&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 📫 Let's Connect
-- 💼 LinkedIn: *(add your LinkedIn URL)*
-- 📧 Email: *(add your professional email)*
-

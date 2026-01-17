@@ -1,53 +1,93 @@
-<div id="header" aling="center">
+<div id="header" align="center">
     <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" width="200"/>
-    <h1>Bienvenido a mi cuenta 👋 </h1>
+    <h1>Welcome to my GitHub 👋</h1>
+    <h3>Full-Stack Software Engineer | Angular & NestJS</h3>
 </div>
 
 ---
-### Acerca de mí 🧑🏽‍💻:
-- Soy estudiante de universidad en la carrera de ingenieria en sistemas computacionales. 
 
-- Mi nombre completo es Kevin Gonzalo Cruz Martinez. 👔
+### 🚀 What I Do
+- Build **full-stack web applications** using **Angular and NestJS** with clean, scalable architectures.
+- Design and implement **RESTful APIs** with complex business logic and relational data models.
+- Develop **enterprise-grade Angular applications** with reactive forms and data-driven workflows.
+- Take ownership of projects from **database design to production deployment**.
 
-- Llevo dos en el mundo del desarrolló web.⏳
+---
 
-- Puedo trabajar colaborativa mente. 🤝🏾
+### 🧑🏽‍💻 Acerca de mí
+Software Engineer in training with **3+ years of experience in web development**, working on real-world academic and professional projects.
 
-- Uso angular como framework del lado del cliente. 
+Focused on **full-stack development** using **Angular and NestJS**, building scalable web applications with strong business logic and clean architecture.
 
-- Uso java con springboot del lado del back end.
+Comfortable working in collaborative environments, adapting quickly to multidisciplinary teams and modern development workflows.
 
-- Lenguaje favorito? "TypeScript" ❤️
+---
 
+### 📌 Featured Projects
+🔹 **Employee Management System**
+- Full-stack application built with **Angular + NestJS**
+- Hierarchical employee–supervisor relationships
+- Role-based logic, cost centers, and positions
+- REST API with DTO validation and relational database modeling
 
-<div id="Lista_de_lenguajes" aling="left">
-    <h3>Lenguajes u herramientas</h3>
-    <div> 
-        <h3>Frontend</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="ANGULAR" alt="ANGULAR" width="80" height="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="80" height="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="80" height="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TYPESCRIPT" alt="TYPESCRIPT" width="80" height="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="80" height="80">
-        <br>
-        <h3>Backend</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="SPRING" alt="SPRING" width="80" height="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JAVA" alt="JAVA" width="80" height="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="vsc" alt="vsc" width="80" height="80">
-        <br>
-        <h3>Gestor de base de datos</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="vsc" alt="vsc" width="80" height="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="vsc" alt="vsc" width="80" height="80">
-        <br>
-        <h3>Controlador de versiones</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUB" alt="GITHUB" width="80" height="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" title="GITHUB" alt="GITHUB" width="80" height="80">
-        <br>
-        <h3>Entorno de trabajo</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="80" height="80">
-    </div>
-</div>
+🔹 **Internal Business Dashboard**
+- Angular reactive forms with dynamic validations
+- Advanced filtering, pagination, and API integration
+- Designed for real-world business workflows
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kevin%20Gonzalo&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin0910)](https://github.com/anuraghazra/github-readme-stats)
+### 🧠 Software Practices
+- Clean Architecture & modular design
+- REST API best practices
+- DTO validation and data consistency
+- Relational database modeling
+- Code readability and maintainability
+
+---
+
+### 🌱 Currently Improving
+- Advanced Angular patterns and performance optimization
+- Backend scalability with NestJS
+- Database optimization and system design
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="60"/>
+
+#### Backend
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="60"/>
+
+#### Databases
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="60"/>
+
+#### Tools & Workflow
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="60"/>
+
+---
+
+### 📊 GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevin0910&theme=radical&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin0910&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Let's Connect
+- 💼 LinkedIn: *(add your LinkedIn URL)*
+- 📧 Email: *(add your professional email)*
+
